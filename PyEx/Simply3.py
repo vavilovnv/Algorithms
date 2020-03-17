@@ -1,3 +1,4 @@
+#Быстрая сортировка
 def quickSort(arr):
     if len(arr) <= 1:
         return arr

@@ -1,3 +1,4 @@
+#Рекурсия
 def factorial(value):
     if value==1:
         return 1
